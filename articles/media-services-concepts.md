@@ -73,7 +73,7 @@ A blob container provides a grouping of a set of blobs. Blob containers are used
 
 Media Services supports two types of locators: OnDemandOrigin locators, used to stream media (for example, MPEG DASH, HLS, or Smooth Streaming) or progressively download media and SAS URL locators, used to upload or download media files to\from Azure storage. 
 
-Note, that the list permission (AccessPermissions.List) should not be used when creating an OrDemandOrigin locator. 
+Note, that the list permission (AccessPermissions.List) should not be used when creating an OnDemandOrigin locator. 
 
 ###Storage account
 
